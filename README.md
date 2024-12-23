@@ -67,26 +67,6 @@ mvn clean install
 - **Java**: Bahasa pemrograman utama.
 - **Maven**: Untuk manajemen proyek dan dependensi.
 - **JUnit**: Untuk pengujian unit.
-- **SLF4J**: Untuk logging.
-- **MySQL**: (Opsional) Untuk penyimpanan data jika menggunakan basis data.
-
-## Kontribusi
-Kami menyambut kontribusi untuk meningkatkan eClassroom. Silakan ikuti langkah-langkah berikut:
-
-1. Fork repositori.
-2. Buat branch baru:
-   ```bash
-   git checkout -b fitur/nama-fitur-anda
-   ```
-3. Commit perubahan Anda:
-   ```bash
-   git commit -m "Tambahkan pesan Anda di sini"
-   ```
-4. Push ke branch:
-   ```bash
-   git push origin fitur/nama-fitur-anda
-   ```
-5. Buka pull request.
 
 ## Pengujian
 Proyek ini memiliki pengujian unit dan integrasi. Untuk menjalankan pengujian, gunakan perintah berikut:
